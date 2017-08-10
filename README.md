@@ -1,24 +1,24 @@
 GoAnzen
 ====
 
-GEIOT2017‚ÅŠé‰æ‚µ‚½˜J“­ÐŠQ–hŽ~IoT‚ÌƒAƒvƒŠ
+GEIOT2017ã§ä¼ç”»ã—ãŸåŠ´åƒç½å®³é˜²æ­¢IoTã®ã‚¢ãƒ—ãƒª
 
 ## Description
 
-Ú×
+è©³ç´°
 
 ## Demo
 
-ƒfƒ‚
+ãƒ‡ãƒ¢
 
 ## Requirement
 
-ƒqƒ„ƒŠƒnƒbƒgƒfƒoƒCƒXuGoAnzen Earv  
-BLE‹@”\‚ð‚à‚Âandroid’[––
+ãƒ’ãƒ¤ãƒªãƒãƒƒãƒˆãƒ‡ãƒã‚¤ã‚¹ã€ŒGoAnzen Earã€  
+BLEæ©Ÿèƒ½ã‚’ã‚‚ã¤androidç«¯æœ«
 
 ## Usage
 
-ì¬’†
+ä½œæˆä¸­
 
 ## Install
 
