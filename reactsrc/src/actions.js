@@ -258,6 +258,6 @@ export function updateBital(i) {
       dispatch({type: HOT_ALERT, temperature: testdata[j].temperature})
     }
     */
-    setTimeout(()=>{return dispatch(updateBital(++j))}, 1000)
+    setTimeout(()=>{return dispatch(updateBital(++j))}, 50)
   }
 }

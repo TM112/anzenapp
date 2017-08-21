@@ -38,7 +38,7 @@ const Page = (props) => {
           <BitalChart />
         </div>
       )
-    case Pages.WORKER_INCIDENT:
+    case Pages.WORKER_INCIDENTS:
       return (
         <div>
           <IncidentContainer />

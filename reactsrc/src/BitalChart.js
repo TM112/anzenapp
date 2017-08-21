@@ -19,7 +19,7 @@ const labels = ["","","","","","","","","","","","","","","","","","","","","","
 const BitalChart = (props) => {
   return (
     <div>
-      <ChartistGraph data={{labels: labels, series:[props.IRValue]}} type={'Line'} />
+      <ChartistGraph data={{labels: labels, series:[props.IRValue]}} options={{showPoint: false, low: 100000, high: 106000}} type={'Line'} />
       <Paper>{props.hbr}</Paper>
     </div>
   )
